@@ -44,3 +44,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+src/app/course.service.spec.ts
+src/app/course.service.ts
+src/app/course/course.component.css
+src/app/course/course.component.html
+src/app/course/course.component.spec.ts
+src/app/course/course.component.ts

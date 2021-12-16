@@ -1,0 +1,11 @@
+.heading{
+    border-radius: 3rem;
+   border-color: darkgreen;
+   padding: 10px;
+   border:red
+}
+.body{
+    border-radius: 3rem;
+   border-color: darkgreen;
+   padding: 10px;
+}

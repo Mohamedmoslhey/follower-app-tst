@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+
+.bi{
+    width: 200px;
+    height: 200px;
+    
+}
